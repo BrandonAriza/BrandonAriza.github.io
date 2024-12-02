@@ -1,0 +1,39 @@
+.name {
+    color: blue;
+}
+.texto {
+    color: brown;
+}
+#t {
+    color: red;
+}
+#texto{
+    color: white;
+}
+.primero {
+    color: springgreen;
+}
+#seccion1 {
+    width: 300px;
+    height: 200px;
+    margin: 20px;
+    padding: 20px;
+    border: 7px solid rebeccapurple;
+    
+}
+.contenedor {
+    display: flex;
+    justify-content: space-around;
+}
+#centro {
+    text-align: center;
+}
+#exp {
+    color: hotpink;
+}
+#pro {
+    color: tan;
+}
+#con {
+    color: blueviolet;
+}
